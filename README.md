@@ -58,6 +58,6 @@ You’ll need a similar setup (or scale accordingly) to achieve high-performance
 - [ ] Test on hardware
 - [ ] Docker image for self-contained development
 
-## Initial Results
+## Initial Results (rough)
 
 <img src="docs/rollout_initial_testing.gif" loop=infinite>
