@@ -1,6 +1,6 @@
 # G1-RL
 
-Reinforcement learning training pipeline for the G1 humanoid robot, built using the [MuJoCo Playground](https://github.com/google-deepmind/mujoco-playground) and Brax PPO framework.
+Reinforcement learning training pipeline for the G1 humanoid robot, built using the [MuJoCo Playground](https://github.com/google-deepmind/mujoco-playground) and Brax PPO framework. The current example is using the default rewards/environment from Playground, further work is needed to improve and robustify the policy.
 
 This repo contains a training + evaluation loop designed for joystick-commanded locomotion in simulation, using custom reward shaping and full rendering/evaluation tools. It'll later be extended to include a full train, sim-to-sim then sim-to-real deployment pipeline.
 
