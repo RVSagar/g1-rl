@@ -60,4 +60,4 @@ You’ll need a similar setup (or scale accordingly) to achieve high-performance
 
 ## Initial Results
 
-![Initial Rollout](docs/rollout_initial_testing.gif)
+<img src="docs/rollout_initial_testing.gif" loop=infinite>
