@@ -2,20 +2,11 @@
 
 A comprehensive training and deployment pipeline for the Unitree G1 humanoid robot, focusing on robust sim-to-real transfer through multi-simulator validation.
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="text-align: center; width: 30%;">
-    <h3>IsaacLab Training</h3>
-    <img src="images/isaaclab_training.gif" width="100%" />
-  </div>
-  <div style="text-align: center; width: 30%;">
-    <h3>MuJoCo Testing</h3>
-    <img src="images/mujoco_testing.gif" width="100%" />
-  </div>
-  <div style="text-align: center; width: 30%;">
-    <h3>Real Deployment</h3>
-    <p><i>Coming soon...</i></p>
-  </div>
-</div>
+## Sim-to-Real Pipeline
+
+| **IsaacLab Training** | **MuJoCo Testing** | **Real Deployment** |
+|:---------------------:|:------------------:|:-------------------:|
+| ![IsaacLab Training](images/isaaclab_training.gif) | ![MuJoCo Testing](images/mujoco_testing.gif) | *Coming soon...* |
 
 ## Overview
 
