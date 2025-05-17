@@ -168,7 +168,7 @@ class DeployNode:
         # Initialize parameters
         self.num_actions = 29
         self.obs_dim = 96  # Base observation dimension
-        self.obs_history_len = 1  # Keep history length of 10 for trained policy
+        self.obs_history_len = 10  # Keep history length of 10 for trained policy
         self.control_dt = 0.02  # 50Hz control (4 physics steps per control step)
         
         # Observation scaling - Match LeggedLabDeploy exactly
