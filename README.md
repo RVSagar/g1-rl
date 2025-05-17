@@ -6,7 +6,9 @@ A comprehensive training and deployment pipeline for the Unitree G1 humanoid rob
 
 | **IsaacLab Training** | **MuJoCo Testing** | **Real Deployment** |
 |:---------------------:|:------------------:|:-------------------:|
-| ![IsaacLab Training](images/isaaclab_flat_g1.gif) | ![MuJoCo Testing](images/mujoco_sim_sim_flat_g1.gif) | *Coming soon...* |
+| ![](images/isaaclab_flat_g1.gif) | ![](images/mujoco_sim_sim_test_flat_g1.gif) | *Coming soon...* |
+
+
 
 ## Overview
 
