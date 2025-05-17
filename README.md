@@ -10,7 +10,7 @@ A comprehensive training and deployment pipeline for the Unitree G1 humanoid rob
 
 | **Real Deployment** (Normal Slow Walk) | **Real Deployment** (Experimental Heel Strike/Toe Off) |
 |:----------------------------:|:----------------------------------:|
-| [<img src="images/normal_slow_walk_preview.gif" width="240">](https://www.dropbox.com/scl/fi/7snzp9otxwugk1sjmlwdn/normal_slow_walk.mp4?rlkey=xsqbtn3xzmfklw2qw7mc3ryez&st=7r92jnbf&raw=1) | [<img src="images/heel_toe_strike_rough_1_preview.gif" width="240">](https://www.dropbox.com/scl/fi/g4ec1lizmni3u7j41iy12/heel_toe_strike_rough_1.mp4?rlkey=newx7w9evqfzmoywr71yjr5ko&st=orw7p7dg&raw=1) |
+| [<img src="images/normal_slow_walk_preview.gif" width="240">](https://www.dropbox.com/scl/fi/7snzp9otxwugk1sjmlwdn/normal_slow_walk.mp4?rlkey=xsqbtn3xzmfklw2qw7mc3ryez&st=7r92jnbf&raw=1) | [<img src="images/heel_toe_strike_rough_preview.gif" width="240">](https://www.dropbox.com/scl/fi/g4ec1lizmni3u7j41iy12/heel_toe_strike_rough_1.mp4?rlkey=newx7w9evqfzmoywr71yjr5ko&st=orw7p7dg&raw=1) |
 
 
 
