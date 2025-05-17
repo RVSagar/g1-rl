@@ -4,10 +4,15 @@ A comprehensive training and deployment pipeline for the Unitree G1 humanoid rob
 
 ## Sim-to-Real Pipeline
 
-| **IsaacLab Training** | **MuJoCo Testing** | **Real Deployment** |
-|:---------------------:|:------------------:|:-------------------:|
-| ![](images/isaaclab_flat_g1.gif) | ![](images/mujoco_sim_sim_test_flat_g1.gif) | *Coming soon...* |
+## Sim-to-Real Pipeline
 
+| **IsaacLab Training** | **MuJoCo Testing** | **Real Deployment** (Normal) |
+|:---------------------:|:------------------:|:-----------------------------:|
+| ![](images/isaaclab_flat_g1.gif) | ![](images/mujoco_sim_sim_test_flat_g1.gif) | <video src="images/normal_slow_walk.mp4" width="240" autoplay loop muted></video> |
+
+| **Real Deployment** (Experimental 1) | **Real Deployment** (Experimental 2) |
+|:-----------------------------------:|:-----------------------------------:|
+| <video src="images/heel_toe_strike_rough_1.mp4" width="240" autoplay loop muted></video> | <video src="images/heel_toe_strike_rough_2.mp4" width="240" autoplay loop muted></video> |
 
 
 ## Overview
