@@ -11,9 +11,9 @@ A comprehensive training and deployment pipeline for the Unitree G1 humanoid rob
 | ![](images/isaaclab_flat_g1.gif) | ![](images/mujoco_sim_sim_test_flat_g1.gif) | [<img src="images/normal_walk.gif" width="240">](https://www.dropbox.com/scl/fi/7snzp9otxwugk1sjmlwdn/normal_slow_walk.mp4?rlkey=xsqbtn3xzmfklw2qw7mc3ryez&st=7r92jnbf&raw=1) |
 
 
-| **Real Deployment** (Experimental 1) | **Real Deployment** (Experimental 2) |
+| **Real Deployment** (Experimental 1 Heel Strike/Toe Off) | **Real Deployment** (Experimental 2 Heel Strike/Toe Off) |
 |:-----------------------------------:|:-----------------------------------:|
-| <video src="images/heel_toe_strike_rough_1.mp4" width="240" autoplay loop muted></video> | <video src="images/heel_toe_strike_rough_2.mp4" width="240" autoplay loop muted></video> |
+| [<img src="images/heel_toe_strike_rough_1_preview.gif" width="240">](https://www.dropbox.com/scl/fi/g4ec1lizmni3u7j41iy12/heel_toe_strike_rough_1.mp4?rlkey=newx7w9evqfzmoywr71yjr5ko&st=orw7p7dg&raw=1) | [<img src="images/heel_toe_strike_rough_2_preview.gif" width="240">](https://www.dropbox.com/scl/fi/pxzkgj7waithz98yd12za/heel_toe_strike_rough_2.mp4?rlkey=xknk5qgbqimij66p9bepqgmp4&st=7vucvuka&raw=1) |
 
 
 ## Overview
